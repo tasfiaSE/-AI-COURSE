@@ -1,11 +1,12 @@
-# 🤖 AI Tools Exploration – Video & Presentation
+# 🤖 AI Tools Exploration – Animaker Video & AI Deliverables
 
-This project is a part of the **Artificial Intelligence** course, showcasing two major deliverables created entirely with AI-powered tools:
+This project is part of my Artificial Intelligence course and showcases three key deliverables:
 
 1. 🎥 A concise **AI Course Summary Video** made using **Pictory AI**  
-2. 📊 A professional **10-slide AI Course Presentation** generated with **Gamma AI**
+2. 📊 A professional **10-slide AI Course Presentation** generated with **Gamma AI**  
+3. 🎬 A polished **Animaker video** summarizing my learning journey—including a heartfelt thank-you message
 
-Both outputs were conceptualized and scripted with the assistance of **ChatGPT**.
+Both the script and narrative were developed with support from **ChatGPT**.
 
 ---
 
@@ -13,12 +14,9 @@ Both outputs were conceptualized and scripted with the assistance of **ChatGPT**
 
 **Tool:** [Pictory AI](https://pictory.ai)
 
-### Workflow:
-- Script generation via ChatGPT covering core AI topics such as BFS, DFS, A*, intelligent agents, and lab projects (Tic Tac Toe, Chess, Connect Four with Minimax and Alpha-Beta Pruning).
-- Uploaded the script to Pictory’s **“Script to Video”** tool.
-- Selected a clean, minimalist theme and synced relevant visuals & subtitles.
-- Added background music and performed minor visual edits.
-- Exported the final video in **MP4** format.
+**Workflow:**
+- Prepared a script via ChatGPT covering core AI topics and lab projects (Tic Tac Toe, Chess, Connect Four with Minimax and Alpha-Beta Pruning).
+- Used Pictory’s **“Script to Video”** tool, selected a minimalist theme, synced visuals and subtitles, added background music, and exported as MP4.
 
 ---
 
@@ -26,27 +24,25 @@ Both outputs were conceptualized and scripted with the assistance of **ChatGPT**
 
 **Tool:** [Gamma.app](https://gamma.app)
 
-### Workflow:
-- Crafted a detailed prompt with ChatGPT to summarize the entire AI course into 10 structured slides.
-- Used Gamma’s AI presentation generator to auto-create slides with titles, bullet points, and visuals.
-- Chose a sleek, professional theme for clarity and engagement.
-- Reviewed and polished slides before exporting as a **PDF**.
+**Workflow:**
+- Generated a prompt with ChatGPT summarizing the AI course.
+- Used Gamma AI to create a polished 10-slide presentation with titles, bullets, and visuals.
+- Selected a professional theme, reviewed slides, and exported as PDF.
 
 ---
 
-## 📂 Project Folder Structure
+## 🎬 Animaker Video Creation
 
-AI-Tools-Exploration/
-├── 🎞️ ai_course_summary_video.mp4
-├── 📄 ai_course_presentation.pdf
-└── 📜 README.md
+**Tool:** Animaker (free plan)
+
+Includes:
+- Uploaded the final script into Animaker’s **Script-to-Video** editor.
+- Added Sir’s photo and topic icons.
+- Selected an AI voice and clean animation theme.
+- Exported the final video (under 2 minutes, free plan) 🌟
 
 ---
-🧠 Topics Covered in Video & Slides
-What is Artificial Intelligence
-Types of AI
-Intelligent Agents and Environments
-Uninformed Search (BFS, DFS, IDS)
-Informed Search (A*, Best First, Heuristics)
-Game Playing (Minimax, Alpha-Beta Pruning)
-Lab Projects: Tic Tac Toe, Chess, Connect Four
+
+## 📂 Project Structure
+
+
